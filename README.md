@@ -5,7 +5,7 @@
 </p>
 
 ### 🛠️ Technical Stack
-* **Languages:** Java, Dart, SQL
+* **Languages:** c++ ,Java, Dart, SQL
 * **Backend:** Spring Boot, JPA/Hibernate, MySQL, PostgreSQL
 * **Mobile:** Flutter
 * **Tools:** Docker, Git
