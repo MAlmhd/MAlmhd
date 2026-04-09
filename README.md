@@ -1,7 +1,7 @@
 # ## Hi there, I'm Mohammed Al-Mahmoud 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Software+Engineer;Backend+Developer+(Spring+Boot);Competitive+Chess+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Software+Engineer;Backend+Developer+(Spring+Boot);Mobile+Developer+(Flutter);Competitive+Chess+Player" alt="Typing SVG" />
 </p>
 
 ### 🛠️ Technical Stack
