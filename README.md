@@ -15,10 +15,6 @@
 - 🏗️ **Portfolio Highlight:** Developed a comprehensive Hospital Management System with Spring Boot.
 - ⚡ **Fun Fact:** When I'm not debugging, I'm likely calculating the next 10 moves in a chess match. ♟️
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAlmhd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAlmhd&layout=compact&theme=radical)
-
 ### 📫 Connect with me
 - 💬 Ask me about: **DSA or Chess strategies.**
 - 📫 Reach me at: [malmhmwd238@gmail.com]
